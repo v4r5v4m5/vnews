@@ -1,0 +1,39 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Mia Sato",
+      "title": "Reddit hackers demand $4.5 million ransom and API pricing changes",
+      "description": "Ransomware group BlackCat is claiming responsibility for a Reddit hack earlier this year. They demanded money and changes to Reddit’s controversial API policy in exchange for not leaking the stolen data.",
+      "url": "http://www.theverge.com/2023/6/19/23765895/reddit-hack-phishing-leak-api-pricing-steve-huffman",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/hJAaXZ-rs0ZjadwWjpfyvD-hwys=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23985506/acastro_STK024_02.jpg",
+      "publishedAt": "2023-06-19T15:04:07Z",
+      "content": "Reddit hackers demand $4.5 million ransom and API pricing changes\r\nReddit hackers demand $4.5 million ransom and API pricing changes\r\n / In February, hackers gained access to internal Reddit data thr… [+2123 chars]"
+    },
+    {
+      "source": { "id": "gruenderszene", "name": "Gruenderszene" },
+      "author": null,
+      "title": "Ihr wollt euer Startup vor Cyber-Attacken schützen? Dann versetzt euch in die Lage der Hacker",
+      "description": "Auch Startups erleben Cyber-Attacken. Ein Experte verrät, wie sich Startups am besten gegen solche Angriffe wehren.",
+      "url": "https://www.businessinsider.de/gruenderszene/business/so-schuetzt-ihr-euch-vor-cyber-attacken-so-ein-experte/",
+      "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2023/06/GettyImages-823030494.jpg?ver=1687163785",
+      "publishedAt": "2023-06-19T09:49:44+00:00",
+      "content": "Dieser Beitrag wurde geschrieben von Karsten Nohl. Er ist Gründer von Autobahn Security, einem Berliner Startup, das Sicherheitslücken konsolidiert und priorisiert.\r\n203 Milliarden Euro so groß ist d… [+1025 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "Ryan Lovelace",
+      "title": "House lawmakers urge Biden administration to defend U.S. against North Korean cyber onslaught",
+      "description": "House lawmakers are urging the Biden administration to take action to protect Americans in response to new details of North Korean hackers targeting U.S. officials first reported by The Washington Times.",
+      "url": "https://www.washingtontimes.com/news/2023/jun/6/house-lawmakers-urge-biden-administration-defend-u/",
+      "urlToImage": "https://twt-thumbs.washtimes.com/media/dupe--/05/19/North_Korea_WannaCry_Cyberattack_46994.jpg-19141.jpg_2023.06.02-02.56.54.753950_c0-296-4000-2629_s1200x700.jpg?d2007bc0b7fe05ee8ee90d41b038baf6f3038e0b",
+      "publishedAt": "2023-06-06T16:30:21Z",
+      "content": "House lawmakers are urging the Biden administration to take action to protect Americans in response to new details of North Korean hackers targeting U.S. officials first reported by The Washington Ti… [+4736 chars]"
+    }
+  ]
+}
